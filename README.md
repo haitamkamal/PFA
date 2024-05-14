@@ -1,2 +1,2 @@
 # my-project-
-printf("hi");
+chi 7aja 
